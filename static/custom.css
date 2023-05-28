@@ -1,0 +1,19 @@
+
+body {
+	/* margin: 0;
+	/* padding: 0; */
+	line-height: 1.7em;
+	/* font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; */
+	font-size: 15px;
+	color: #d1edf2; 
+    background: #01121b url(images/templatemo_body_top.png) repeat-x top;
+}
+#links a{
+	color: #d1edf2;
+}
+#links a:hover{
+	color: #4ac959;
+}
+#testi a{
+	color: black;
+}
