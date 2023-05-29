@@ -12,8 +12,14 @@ body {
 	color: #d1edf2;
 }
 #links a:hover{
-	color: #4ac959;
+	color: rgb(133, 203, 21);
+	padding: 24px;
+	background: url(images/templatemo_menu_hover.jpg) no-repeat center bottom;
 }
+
+
+
+
 #testi a{
 	color: black;
 }

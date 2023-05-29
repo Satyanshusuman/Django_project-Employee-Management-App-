@@ -2,7 +2,7 @@ from django.shortcuts import render,redirect
 from django.views import View
 from django.contrib.auth import authenticate,login
 from .models import Employee
-from myapp.form import Loginform
+from myapp.loginform import Loginform
 
 
 # Create your views here.

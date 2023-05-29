@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from .models import Testimonial
-from .form import Feedbackform
+from .feedbackform import Feedbackform
 
 # Create your views here.
 def home(request):
