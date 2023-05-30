@@ -1,5 +1,5 @@
 from django import forms
-from emp.models import Employee
+
 
 
 class Loginform(forms.Form):
